@@ -3,7 +3,7 @@ function cappyJuice(dataRows) {
     let bottlesObj = {};
 
     for (let dataRow of dataRows) {
-        let [juiceName, quantity] = dataRow.split(/\s=>\s/g);
+        let [juiceName, quantity] = dataRow.split(' => ');
         quantity = Number(quantity);
 
         if (!flavorsObj.hasOwnProperty(juiceName)) {
@@ -12,15 +12,11 @@ function cappyJuice(dataRows) {
         else {
             flavorsObj[juiceName] += quantity;
         }
+        quantity = flavorsObj[juiceName];
 
         if (quantity >= 1000) {
-            let bottlesCount = Math.floor(quantity) / 1000;
-            if (!bottlesObj.hasOwnProperty(juiceName)) {
-                bottlesObj[juiceName] = bottlesCount;
-            }
-            else {
-                bottlesObj[juiceName] += bottlesCount;
-            }
+            let bottlesCount = Math.floor(quantity / 1000);
+            bottlesObj[juiceName] = bottlesCount;
         }
     }
 
