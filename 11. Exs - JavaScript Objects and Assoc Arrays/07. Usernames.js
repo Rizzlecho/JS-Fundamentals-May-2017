@@ -5,6 +5,7 @@ function usernames(array) {
     }
 
     console.log([...names].sort(sortAlphabeticaly).join('\n'));
+
     function sortAlphabeticaly(a,b) {
         let firstCriteria=a.length-b.length;
         if(firstCriteria!==0){
