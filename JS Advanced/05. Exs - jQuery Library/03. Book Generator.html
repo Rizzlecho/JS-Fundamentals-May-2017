@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Generator</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="wrapper">
+
+</div>
+
+<script>
+    window.onload = function () {
+        createBook("#wrapper", "Alice in Wonderland", "Lewis Carroll", 1111);
+        count++;
+    }
+</script>
+
+<script>
+    (function solve() {
+        let count = 1;
+        return function createBook(selector, title, author, ISBN) {
+
+            let wrapper = $(selector);
+
+            let fragment = document.createDocumentFragment();
+
+            let div = $(`<div id="book${count}" style="border: medium none;"></div>`);
+
+
+            let t = $(`<p class="title">${title}</p>`);
+            t.appendTo(div);
+
+            let a = $(`<p class="author">${author}</p>`);
+            a.appendTo(div);
+
+            let isbn = $(`<p class="isbn">${ISBN}</p>`);
+            isbn.appendTo(div);
+
+            let select = $('<button>Select</button>');
+            select.appendTo(div);
+
+            let deselect = $('<button>Deselect</button>');
+            deselect.appendTo(div);
+
+            div.appendTo(fragment);
+            div.appendTo(wrapper);
+
+            $(select).on('click', function selectF() {
+                div.css('border', '2px solid blue')
+            });
+
+            $(deselect).on('click', function deselectF() {
+                div.removeAttr('style')
+            });
+            count++;
+        }
+    })()
+</script>
+</body>
+</html>
