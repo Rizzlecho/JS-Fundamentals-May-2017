@@ -22,31 +22,57 @@
 </div>
 
 <script>
-function timer() {
-    let startTimer = $('#start-timer');
-    let stopTimer = $('#stop-timer');
+    function timer() {
+        let startBtn = $('#start-timer');
+        let stopBtn = $('#stop-timer');
 
-    let h = $('#hours');
-    let m = $('#minutes');
-    let s = $('#seconds');
+        let h = $('#hours');
+        let m = $('#minutes');
+        let s = $('#seconds');
 
-    let time = 0;
+        let time = 0;
 
-    $(startTimer).on('click', function () {
+        startBtn.on('click', continueTimer);
+        stopBtn.on('click', stopTimer);
 
-    })
+        let timer;
+        let isRunning = false;
 
+        function continueTimer() {
+            if (!isRunning) {
+                isRunning = true;
+                timer = setInterval(step, 1000);
+            }
+        }
 
-}
+        function stopTimer() {
+            if (isRunning) {
+                isRunning = false;
+                clearInterval(timer);
+            }
+        }
+
+        function step() {
+            time++;
+
+            let hours =  ((Math.floor(time / 3600)));
+            if ((hours + '').length <= 1) {
+                hours = '0' + hours;
+            }
+
+            let minutes = ('0' + (Math.floor(time / 60)) % 60).slice(-2);
+            let seconds = ('0' + (time % 60)).slice(-2);
+
+            h.text(hours);
+            m.text(minutes);
+            s.text(seconds);
+        }
+    }
 </script>
 
 <script>
     timer = setInterval(step,1000);
     clearInterval(timer);
-
-    function step() {
-
-    }
 </script>
 
 <script>
