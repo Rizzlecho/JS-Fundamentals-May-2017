@@ -17,56 +17,64 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01. XHR.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/01. XHR.html">
+    <leaf>
+      <file leaf-file-name="cats.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/cats.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="475">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02. AJAX Load.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/02. AJAX Load.html">
+      <file leaf-file-name="prodavachnik.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07. Exs - Single Page Application/scripts/prodavachnik.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03. Github Repos.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/03. Github Repos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01. Bus Stop.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/01. Bus Stop.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+            <state relative-caret-position="646">
+              <caret line="205" column="0" lean-forward="false" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#!!block;n#showView#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#navigateTo#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="e#1559#1664#0" expanded="false" />
+                <element signature="n#!!block;n#showInfo#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#handleError#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="e#2402#2568#0" expanded="false" />
+                <element signature="e#2626#2866#0" expanded="false" />
+                <element signature="e#2908#2984#0" expanded="false" />
+                <element signature="e#3033#3244#0" expanded="false" />
+                <element signature="e#3295#3505#0" expanded="false" />
+                <element signature="e#3550#3630#0" expanded="false" />
+                <element signature="n#!!block;n#userLoggedIn#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#userLoggedOut#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#loadAds#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#deleteAd#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#openEditAd#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#editAd#0;n#!!block;n#startApp#0" expanded="false" />
+                <element signature="n#!!block;n#createAd#0;n#!!block;n#startApp#0" expanded="false" />
+                <marker date="1502246028771" expanded="true" signature="6559:6567" ph="..." />
+                <marker date="1502246028771" expanded="true" signature="6745:6752" ph="..." />
+                <marker date="1502246028771" expanded="true" signature="7062:7068" ph="€" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02. Bus Schedule.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/02. Bus Schedule.html">
+      <file leaf-file-name="template.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/template.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1209">
+              <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+              <folding>
+                <marker date="1502382748231" expanded="true" signature="8:1202" ph="{...}" />
+                <marker date="1502382748231" expanded="true" signature="367:710" ph="{...}" />
+                <marker date="1502382748231" expanded="true" signature="891:1199" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,8 +86,20 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hover</find>
+      <find>even</find>
+      <find>main</find>
+      <find>request</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>makeRequest</replace>
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -90,6 +110,29 @@
         <option value="$PROJECT_DIR$/02. Lab - AJAX/03. Github Repos.html" />
         <option value="$PROJECT_DIR$/03. REST and HTTP Requests/01. Bus Stop.html" />
         <option value="$PROJECT_DIR$/03. REST and HTTP Requests/02. Bus Schedule.html" />
+        <option value="$PROJECT_DIR$/03. REST and HTTP Requests/03. Messenger.html" />
+        <option value="$PROJECT_DIR$/03. REST and HTTP Requests/04. Phonebook.html" />
+        <option value="$PROJECT_DIR$/04. Lab - Async Programming/01. Github Commits.html" />
+        <option value="$PROJECT_DIR$/04. Lab - Async Programming/02. Blog/blog.html" />
+        <option value="$PROJECT_DIR$/04. Lab - Async Programming/02. Blog/solution.js" />
+        <option value="$PROJECT_DIR$/05. Exs - Async Programming/01. Forecaster/schedule.html" />
+        <option value="$PROJECT_DIR$/05. Exs - Async Programming/01. Forecaster/forecaster.js" />
+        <option value="$PROJECT_DIR$/05. Exs - Async Programming/02. Fisher Game/catch.html" />
+        <option value="$PROJECT_DIR$/05. Exs - Async Programming/02. Fisher Game/catch.js" />
+        <option value="$PROJECT_DIR$/06. Lab - Single Page Application/index.html" />
+        <option value="$PROJECT_DIR$/06. Lab - Single Page Application/styles/book-library.css" />
+        <option value="$PROJECT_DIR$/06. Lab - Single Page Application/scripts/app.js" />
+        <option value="$PROJECT_DIR$/07. Exs - Single Page Application/index.html" />
+        <option value="$PROJECT_DIR$/07. Exs - Single Page Application/styles/prodavachnik.css" />
+        <option value="$PROJECT_DIR$/07. Exs - Single Page Application/scripts/prodavachnik.js" />
+        <option value="$PROJECT_DIR$/08. Exs - Templating/1. List Towns/town.hbs" />
+        <option value="$PROJECT_DIR$/08. Exs - Templating/1. List Towns/townList.hbs" />
+        <option value="$PROJECT_DIR$/08. Exs - Templating/1. List Towns/listtown.html" />
+        <option value="$PROJECT_DIR$/08. Exs - Templating/1. List Towns/solve.js" />
+        <option value="$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/templates/cat.hbs" />
+        <option value="$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/templates/catList.hbs" />
+        <option value="$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/template.js" />
+        <option value="$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/cats.html" />
       </list>
     </option>
   </component>
@@ -104,6 +147,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -126,8 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,12 +194,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="03. REST and HTTP Requests" />
+              <option name="myItemId" value="07. Exs - Single Page Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS Apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS Apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07. Exs - Single Page Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,7 +230,7 @@
     <property name="js-jscs-nodeInterpreter" value="E:\Programs\Node.js\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -243,24 +307,33 @@
       <option name="presentableId" value="Default" />
       <updated>1501169720751</updated>
       <workItem from="1501169722309" duration="107000" />
-      <workItem from="1501170000911" duration="4845000" />
+      <workItem from="1501170000911" duration="5445000" />
+      <workItem from="1501419159460" duration="3305000" />
+      <workItem from="1501505003052" duration="9582000" />
+      <workItem from="1501695055773" duration="2320000" />
+      <workItem from="1501773851851" duration="9281000" />
+      <workItem from="1501867991657" duration="5184000" />
+      <workItem from="1502022393928" duration="20294000" />
+      <workItem from="1502192725192" duration="17423000" />
+      <workItem from="1502291822554" duration="2996000" />
+      <workItem from="1502379026322" duration="4377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4952000" />
+    <option name="totallyTimeSpent" value="80314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19546892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17492098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -279,11 +352,335 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/07. Exs - Single Page Application/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="22" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+          <folding>
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Exs - Single Page Application/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#showView#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#navigateTo#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="e#1559#1664#0" expanded="false" />
+            <element signature="n#!!block;n#showInfo#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#handleError#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="e#2402#2568#0" expanded="false" />
+            <element signature="e#2626#2866#0" expanded="false" />
+            <element signature="e#2908#2984#0" expanded="false" />
+            <element signature="e#3033#3244#0" expanded="false" />
+            <element signature="e#3295#3505#0" expanded="false" />
+            <element signature="e#3550#3630#0" expanded="false" />
+            <element signature="n#!!block;n#userLoggedIn#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#userLoggedOut#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#loadAds#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#deleteAd#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#openEditAd#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#editAd#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#createAd#0;n#!!block;n#startApp#0" expanded="false" />
+            <marker date="1502246028771" expanded="true" signature="6559:6567" ph="..." />
+            <marker date="1502246028771" expanded="true" signature="6745:6752" ph="..." />
+            <marker date="1502246028771" expanded="true" signature="7062:7068" ph="€" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Exs - Single Page Application/styles/prodavachnik.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3349">
+          <caret line="197" column="21" lean-forward="false" selection-start-line="197" selection-start-column="21" selection-end-line="197" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Lab - Single Page Application/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Lab - Single Page Application/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Lab - Async Programming/02. Blog/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Lab - Async Programming/02. Blog/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Exs - Async Programming/01. Forecaster/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="2" lean-forward="false" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Exs - Async Programming/01. Forecaster/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/03. Messenger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/04. Phonebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Lab - Async Programming/01. Github Commits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/03. Messenger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/04. Phonebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Lab - Async Programming/01. Github Commits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/01. Bus Stop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/01. XHR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/02. AJAX Load.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/03. Github Repos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/01. XHR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/01. XHR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/02. AJAX Load.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/03. Github Repos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/02. Bus Schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/01. Bus Stop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="37" column="50" lean-forward="false" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/03. Messenger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/04. Phonebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Lab - Async Programming/01. Github Commits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Lab - Async Programming/02. Blog/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Lab - Async Programming/02. Blog/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Exs - Async Programming/01. Forecaster/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Exs - Async Programming/01. Forecaster/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Exs - Async Programming/02. Fisher Game/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Exs - Async Programming/02. Fisher Game/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="107" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Lab - Single Page Application/book-library.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="26" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Lab - Single Page Application/styles/book-library.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="70" column="23" lean-forward="false" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Lab - Single Page Application/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Lab - Single Page Application/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="965">
+          <caret line="288" column="28" lean-forward="false" selection-start-line="288" selection-start-column="28" selection-end-line="288" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Exs - Single Page Application/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="91" column="22" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+          <folding>
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Exs - Single Page Application/styles/prodavachnik.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="197" column="21" lean-forward="false" selection-start-line="197" selection-start-column="21" selection-end-line="197" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/catSeeder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -291,46 +688,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/01. XHR.html">
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/1. List Towns/listtown.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/02. AJAX Load.html">
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/1. List Towns/townList.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="144">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02. Lab - AJAX/03. Github Repos.html">
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/1. List Towns/town.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/01. Bus Stop.html">
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/1. List Towns/solve.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        <state relative-caret-position="816">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/templates/catList.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/templates/cat.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03. REST and HTTP Requests/02. Bus Schedule.html">
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/template.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="1209">
+          <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+          <folding>
+            <marker date="1502382748231" expanded="true" signature="8:1202" ph="{...}" />
+            <marker date="1502382748231" expanded="true" signature="367:710" ph="{...}" />
+            <marker date="1502382748231" expanded="true" signature="891:1199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. Exs - Templating/2. HTTP Status Cats/cats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Exs - Single Page Application/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="205" column="0" lean-forward="false" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#showView#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#navigateTo#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="e#1559#1664#0" expanded="false" />
+            <element signature="n#!!block;n#showInfo#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#handleError#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="e#2402#2568#0" expanded="false" />
+            <element signature="e#2626#2866#0" expanded="false" />
+            <element signature="e#2908#2984#0" expanded="false" />
+            <element signature="e#3033#3244#0" expanded="false" />
+            <element signature="e#3295#3505#0" expanded="false" />
+            <element signature="e#3550#3630#0" expanded="false" />
+            <element signature="n#!!block;n#userLoggedIn#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#userLoggedOut#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#loadAds#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#deleteAd#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#openEditAd#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#editAd#0;n#!!block;n#startApp#0" expanded="false" />
+            <element signature="n#!!block;n#createAd#0;n#!!block;n#startApp#0" expanded="false" />
+            <marker date="1502246028771" expanded="true" signature="6559:6567" ph="..." />
+            <marker date="1502246028771" expanded="true" signature="6745:6752" ph="..." />
+            <marker date="1502246028771" expanded="true" signature="7062:7068" ph="€" />
+          </folding>
         </state>
       </provider>
     </entry>
