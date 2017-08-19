@@ -132,7 +132,7 @@ function startApp() {
     showView('home');
 
     function userLoggedIn() {
-        $('#loggedInUser').text(`Welcome ${localStorage.getItem('username')}!`);
+        $('#loggedInUser').text(`Zdr preatel ${localStorage.getItem('username')}!`);
         $('#loggedInUser').show();
         $('#linkLogin').hide();
         $('#linkRegister').hide();
@@ -215,6 +215,7 @@ function startApp() {
             let html = $('<div>');
             html.addClass('ad-box');
             let title = $(`<div class="ad-title">${ad.title}</div>`);
+            let readMoreBtn = $('<button>Read More</button>').click(() => displayAdvert(ad._id));
 
             if (ad._acl.creator === localStorage.getItem('id')) {
                 let deleteBtn = $('<button>&#10006;</button>').click(() => deleteAd(ad._id));
@@ -230,6 +231,7 @@ function startApp() {
             html.append(`<div><img src="${ad.imageUrl}"></div>`);
             html.append(`<div>Price: ${Number(ad.price).toFixed(2)}&euro; | By ${ad.publisher}</div>`);
             adsDiv.append(html);
+            readMoreBtn.appendTo(html)
         }
     }
 
@@ -317,4 +319,56 @@ function startApp() {
             handleError(err)
         }
     }
+
+    function displayAdvert(advertId){
+        const kinveyAdvertUrl = "https://baas.kinvey.com/" + "appdata/" +
+            "kid_BJ3qujvw-" + "/posts/" + advertId;
+        const kinveyAuthHeaders = {
+            'Authorization': "Kinvey " + localStorage.getItem('authtoken'),
+        };
+
+        $.ajax({
+            method: "GET",
+            url: kinveyAdvertUrl,
+            headers: kinveyAuthHeaders,
+            success: displayAdvertSuccess,
+            error: handleError
+        });
+
+        $('#viewDetailsAd').empty();
+
+        function displayAdvertSuccess(advert) {
+            let advertInfo = $('<div>').append(
+                $('<img>').attr("src", advert.imageUrl),
+                $('<br>'),
+                $('<label>').text('Title:'),
+                $('<h1>').text(advert.title),
+                $('<label>').text('Description:'),
+                $('<p>').text(advert.description),
+                $('<label>').text('Publisher:'),
+                $('<div>').text(advert.publisher),
+                $('<label>').text('Date:'),
+                $('<div>').text(formatDate(advert._kmd.lmt)));
+
+            $('#viewDetailsAd').append(advertInfo);
+
+            showView('details');
+        }
+
+        // Formatted date
+        function formatDate(dateISO8601) {
+            let date = new Date(dateISO8601);
+            if (Number.isNaN(date.getDate()))
+                return '';
+            return date.getDate() + '.' + padZeros(date.getMonth() + 1) +
+                "." + date.getFullYear() + ' ' + date.getHours() + ':' +
+                padZeros(date.getMinutes()) + ':' + padZeros(date.getSeconds());
+
+            function padZeros(num) {
+                return ('0' + num).slice(-2);
+            }
+        }
+    }
+
+
 }
