@@ -4,6 +4,10 @@ class Contact {
         this.lastName = lastName;
         this.phone = phone;
         this.email = email;
+        this.online = false;
+    }
+
+    set onlineChecker{
 
     }
 
